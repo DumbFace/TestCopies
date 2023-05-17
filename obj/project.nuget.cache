@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GzvAAgu9EeuUtgnQapo00KHrznhn7MeKjk3t2qEyawXlD+W8zALP27WzZvYso3BOmW2jxlEqqgXy7Pcw6mUb9g==",
+  "success": true,
+  "projectFilePath": "D:\\Repo\\Github\\TestEventLogPrint\\TestEventLogPrint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinaai\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
